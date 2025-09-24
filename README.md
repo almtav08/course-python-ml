@@ -12,4 +12,4 @@ Colab Notebooks de la Segunda Sesión
 [S2 A2 - Evaluación de Modelos](https://colab.research.google.com/drive/1XQ16v6Y8DwhUj9qlOPy_A4Wy1u3ymn_D)
 [S2 A3 - Validación Cruzada](https://colab.research.google.com/drive/1ueNXCIC9E_Sp6rR3TufucSiOPT_Ha4f2)
 [S2 A4 - GridSearchCV](https://colab.research.google.com/drive/1gVj30gdCPPqFGPesHABytEOqHFcCdrxG)
-[S2 A5 - Taller Benchmarking](https://colab.research.google.com/drive/1MepIb-GUY1i5f41auwrZs1lTQI4k0sc65)
+[S2 A5 - Taller Benchmarking](https://colab.research.google.com/drive/1MepIb-GUY1i5f41auwrZs1lTQI4k0sc6)
